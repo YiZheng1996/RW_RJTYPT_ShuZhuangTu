@@ -175,9 +175,6 @@
     <Reference Include="Microsoft.Office.Interop.Excel">
       <HintPath>..\Lib\Report\Microsoft.Office.Interop.Excel.dll</HintPath>
     </Reference>
-    <Reference Include="NodeEditor">
-      <HintPath>..\Lib\NodeEditor.dll</HintPath>
-    </Reference>
     <Reference Include="office">
       <HintPath>..\Lib\Report\office.dll</HintPath>
     </Reference>
